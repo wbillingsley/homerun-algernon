@@ -1,0 +1,10 @@
+
+# IDE stuff
+.bloop/
+.metals/
+.vscode/
+.bsp/
+metals.sbt
+
+target/
+project/project/
